@@ -22,7 +22,7 @@
 <body>
     <div class="container" style="margin-top: 50px;">
     <form action="./confirmar.php?" method="post">
-            <h1>Cadastro de Produtos</h1>
+            <h1>Editar Produto</h1>
             <p>Nome do Produto</p>
             <input type="text" name="nome" id="" value="<?php echo $row['nome']?>">
             <p>Valor</p>
