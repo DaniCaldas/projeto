@@ -9,7 +9,7 @@
     <title>Cadastro</title>
 </head>
 <body>
-    <div>
+    <div class="container">
         <form action="cadastrar.php" method="post">
             <h1>Cadastro de Produtos</h1>
             <p>Nome do Produto</p>
